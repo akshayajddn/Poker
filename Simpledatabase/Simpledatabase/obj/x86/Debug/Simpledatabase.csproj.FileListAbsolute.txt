@@ -1,0 +1,11 @@
+C:\Users\Akshay\documents\visual studio 2010\Projects\Simpledatabase\Simpledatabase\bin\Debug\Simpledatabase.exe
+C:\Users\Akshay\documents\visual studio 2010\Projects\Simpledatabase\Simpledatabase\bin\Debug\Simpledatabase.pdb
+C:\Users\Akshay\documents\visual studio 2010\Projects\Simpledatabase\Simpledatabase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Akshay\documents\visual studio 2010\Projects\Simpledatabase\Simpledatabase\obj\x86\Debug\Simpledatabase.Form1.resources
+C:\Users\Akshay\documents\visual studio 2010\Projects\Simpledatabase\Simpledatabase\obj\x86\Debug\Simpledatabase.Properties.Resources.resources
+C:\Users\Akshay\documents\visual studio 2010\Projects\Simpledatabase\Simpledatabase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Akshay\documents\visual studio 2010\Projects\Simpledatabase\Simpledatabase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Akshay\documents\visual studio 2010\Projects\Simpledatabase\Simpledatabase\obj\x86\Debug\Simpledatabase.exe
+C:\Users\Akshay\documents\visual studio 2010\Projects\Simpledatabase\Simpledatabase\obj\x86\Debug\Simpledatabase.pdb
+C:\Users\Akshay\Documents\Visual Studio 2010\Projects\Simpledatabase\Simpledatabase\bin\Debug\XPokerEval.CactusKev.CSharp.dll
+C:\Users\Akshay\Documents\Visual Studio 2010\Projects\Simpledatabase\Simpledatabase\bin\Debug\XPokerEval.CactusKev.CSharp.pdb
